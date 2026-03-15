@@ -30,7 +30,7 @@ Para ejecutar este proyecto es necesario contar con:
 ## Datos del autor
 
 Nombre: Jesús Samayoa  
-Carné: 19003346
+Carnet: 19003346
 Correo: jesus.samayoa@galileo.edu  
-Carnet: (aquí colocas tu carnet)
+
 
